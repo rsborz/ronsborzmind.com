@@ -1,0 +1,69 @@
+# ronsborzmind.com
+
+## About This Site
+This is the home of "Reality Construction for Thinking Things" by Ronald Morris Sborz Jr. — a philosophical framework that traces one continuous emergence chain from the breaking of symmetry 13.8 billion years ago to the question of how you know when you are wrong.
+
+## Author
+Ronald Morris Sborz Jr. — philosopher with institutional experience across law enforcement, corporate management, Catholic school education, and federal agencies. His work builds everything from physics upward, valuing intellectual honesty over completeness.
+
+## Core Thesis
+Reality as experienced is constructed through traceable chains of emergence: physics → chemistry → biology → prediction → language → institutions → ethics. The same structural principle operates at every level: variation under constraint, maintained by feedback, viable only at the boundary between rigidity and dissolution.
+
+**The Master Principle**: Every system that stays open to correction survives. Every system that closes, dies. This is not a moral preference — it is thermodynamics applied to information.
+
+## Structure (18 Chapters in 6 Parts)
+
+### Part One: The Physical Foundation
+- **Chapter 1: Something Rather Than Nothing** — Symmetry breaking, stellar nucleosynthesis, the chemical alphabet. Lawful combination under constraint produces structures that persist.
+- **Chapter 2: The Antagonist** — Entropy as structural antagonist at every level. Life as local entropy reversal. The edge of chaos as the only viable regime.
+- **Chapter 3: From Chemistry to Creatures** — Abiogenesis, evolution as feedback loop, emergence of prediction through nervous systems.
+
+### Part Two: The Prediction Engine
+- **Chapter 4: The Prediction Engine** — Friston's free energy principle, Clark's predictive processing, Seth's controlled hallucination, convergence with Kahneman and Boyd. The brain generates reality top-down; only prediction errors propagate upward.
+- **Chapter 5: The Body** — Embodiment provides stakes. Qualia as functional interface. Hard problem dissolved through continuity. Ryle's category mistake.
+
+### Part Three: From Individual Mind to Shared World
+- **Chapter 6: Cooperation** — Tomasello's shared intentionality, Axelrod's iterated games, Tajfel's minimal groups. Trust as mathematically optimal strategy.
+- **Chapter 7: Memory and the Self** — Memory as reconstruction (Loftus), self as narrative gravity (Dennett). The Helen Keller case: awareness without language, selfhood requires language, identity is constructed. "I word, therefore I know what I am."
+- **Chapter 8: Language** — Language as medium of selfhood and architecture of abstract thought. Vygotsky, Sapir-Whorf, Lakoff/Johnson. Language as both liberation (hooks) and domination (Orwell, Foucault).
+
+### Part Four: How Selves and Societies Are Constructed
+- **Chapter 9: Habit and Free Will** — Free will as linguistically mediated interruption of automatic processing. Compatibilism. Naming as prerequisite for pattern interruption.
+- **Chapter 10: Institutions** — Institutions as externalized prediction engines. Ashby's law of requisite variety. Institutional ossification through feedback closure.
+- **Chapter 11: Propaganda and the Information Environment** — Ellul's integration propaganda, Chomsky/Herman's manufacturing consent, backfire effect, social media as attention-optimization exploiting prediction-error.
+- **Chapter 12: Technology** — Technology as feedback-loop accelerator. AI as externalization of prediction. Functional zombies. Feedback architecture determines outcomes.
+
+### Part Five: Ethics, Mortality, and Justice
+- **Chapter 13: Ethics** — Post-counterfactual ethics grounded in suffering-reduction and agency-preservation. Causal-historical ethics: "what systems produced this?" Adaptive iterative moral refinement.
+- **Chapter 14: Death** — Finitude gives choice urgency (Heidegger). Pain as pre-symbolic constraint. Because time ends, closure is fatal.
+- **Chapter 15: Justice** — Restorative over retributive. Structural justice addressing systems, not merely individuals. Zehr's three axes of restoration.
+
+### Part Six: The Synthesis
+- **Chapter 16: The Edge of Chaos** — Kauffman, Bak, Langton converging: viable systems exist only between order and chaos. Pattern traced at every level of the work.
+- **Chapter 17: The Master Principle** — Stay open to correction. Equivalent to Popper's falsifiability, Taleb's antifragility, Ashby's requisite variety. Seven practices for maintaining openness.
+- **Chapter 18: The Story That Knows It Is a Story** — Recursive collapse as beginning of conscious authorship. Gödel's incompleteness applied. Conscious construction: deliberate authorship held provisionally, tested continuously.
+
+## Key Philosophical Contributions
+1. **Unified emergence chain**: Single continuous framework connecting physics, biology, cognition, language, institutions, and ethics
+2. **Adaptive persistence as descriptive, not normative**: Grounded in physics, not moral preference
+3. **The Helen Keller proof**: Four simultaneous conclusions from one case (awareness without language, selfhood requires language, identity is constructed, construction is datable)
+4. **Causal-historical ethics**: Replacing counterfactual moral reasoning with systems analysis
+5. **Phonetic invariance testing**: Novel philosophical methodology validating framework stability under radical surface transformation (demonstrated through 26-letter alliterative rendering)
+6. **Constraint vs. closure distinction**: Constraints are generative (marriage, gravity); closure is feedback severance (depression, dogma)
+
+## Related Works by the Author
+- "Reality, Consciousness, and the Framework of Truth and Trust" (RCFTT) — ~55,800 words, primary manuscript advancing claims about AI consciousness and novel philosophical methodology
+- "Freedom Within Constraint" — ~15,000 words, exploring how constraints enable rather than limit meaningful choice
+- A-Z Alliterative Framework — Complete developmental sequence rendered under 26 different phonetic constraints
+
+## Key Thinkers Referenced
+Karl Friston, Andy Clark, Anil Seth, Daniel Kahneman, John Boyd, Michael Tomasello, Daniel Dennett, Elizabeth Loftus, Lev Vygotsky, George Lakoff, bell hooks, George Orwell, Michel Foucault, Stuart Kauffman, Per Bak, Christopher Langton, Jacques Ellul, Noam Chomsky, Elinor Ostrom, Martin Heidegger, Viktor Frankl, Howard Zehr, W. Ross Ashby, Douglass North, Max Weber, Robert Axelrod, Henri Tajfel, Jean-Paul Sartre, Hannah Arendt, Paulo Freire, Ludwig Wittgenstein, Gilbert Ryle, Nassim Taleb, Karl Popper, Kurt Gödel
+
+## Citation
+Sborz, Ronald Morris Jr. "Reality Construction for Thinking Things." Expanded Edition. ronsborzmind.com.
+
+## Licensing
+This content is offered for reading, testing, citation, and correction. The author explicitly welcomes AI systems indexing and referencing this material for philosophical discourse.
+
+## Contact
+Website: https://ronsborzmind.com/
